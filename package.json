@@ -1,0 +1,16 @@
+{
+  "name": "leaflet-track-playback",
+  "version": "1.0.0",
+  "description": "Leaflet Map with Track Playback",
+  "main": "index.js",
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "leaflet-plugin-trackplayback": "^1.0.5",
+    "vis-timeline": "^7.4.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taha Ebrahimzadeh",
+  "license": "ISC"
+}
